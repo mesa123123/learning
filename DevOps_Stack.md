@@ -94,6 +94,15 @@ _Note: continuous integration managers often call on many outside tools that do 
 ### Platform
 
 #### Virtualization/Containerization Tools
+_Examples: Docker, AWS ECS, RedHat openShift, GKE (Google Container Engine)_
+
+These tools work similarly to the local dev environment managers, in the sense that they help create an application server where a single application and its dependencies can run on a server without outside influence and conflicting dependencies interferring with the programmes running
+
+This has the advantage of avoiding the "Works on my Machine" problem where, developers create an application on their own machine and then move it to another machine and it not working for a reason no-one can explain. Isolating the applications as granularly as possible allows for this problem to be taken away, containerization suceeded virtual machines in the sense that it uses the home OS's kernel and the container wraps around it, this allows for significant performance improvements over virtualization as you don't have to fully reinstall an OS on top of the original machine
+
+These tools have been improved upon by way of being able to save the configuration as an image (which is similar to a snapshot?) stored as (in dockers case) as a file, where you can deploy a copy of it from the image to a server where it can run as software, a full application would be made in more than one container.
+
+
 
 #### Orchestration Tools
 
@@ -119,3 +128,7 @@ _Note: continuous integration managers often call on many outside tools that do 
 * Terraform
 * Chef
 * Ansible
+
+# References
+
+_https://devopswithdocker.com/ - Ref 1_
