@@ -1,7 +1,11 @@
 # Tools for the DevOps Stack
 
-For anyone who hasn't worked with software before, they believe software engineering to be a process of _'write code, push release, walk away'_ from my experience this is justifiable as we live in a world where a select group of companies make it look that way.<br>
-However there are hidden complexities of getting software ready to help a business and large software projects can be as complex and messy, and requires constant vigilance over many years to maintain properly.<br>
+For anyone who hasn't worked with software before, they believe software engineering to be a process of _'write code, push release, walk away'_ from my experience this is justifiable as we live in a world where a select group of companies (who have gotten really good at practicing DevOps), have made it look like that is the case.
+In reality, software is similar to the engineering disciplines in the sense that:
+
+* There are hidden complexities of getting software ready to help a business. 
+* Large software projects can be complex and messy, and require constant monitoring over many years to maintain properly.
+
 Software engineers though, REALLY want to be able to just _'write code, push release, and walk away'_ so over the years they have created a set practices and tools that have allowed us to grapple with the many complexities of building and maintaining software and get closer to this point.<br>
 These set of practices and tools are DevOps
 
@@ -105,17 +109,18 @@ Containerization suceeded virtual machines in the sense that it uses the home OS
 ##### Images and Snapshots
 
 The concept of virtualization/containerization can be made much more powerful with the idea of snapshots/images.
-Snapshots have been decsribed as images in the sense that they are a "snapshot" of a virtual machine in a certain state, at a certain time, so that its users can come back to the snapshot from that point. 
-Snapshots work well if the snapshot is built for one user working on a single entity, as it can act as a kind of "checkpoint" where the user can start from where they left off.
+Snapshots have been decsribed as such in the sense that they are record of an moment in a virtual machine's state, so that its users can come back to the snapshot from that point. 
+Snapshots work well if the snapshot is built for one user working on a single entity, as it can act as a kind of rolling checkpoint where the user can start from where they left off.
 
 ###### Images and Snapshots in DevOps
 
-Basically DevOps is about being able to move configurations across environments and scale stuff without changing much and making sure that environments stay as similar as possible so that breaking things dont happen. Which is why images are better suited to the paradigm
+Being able to virtualize an environment is a key part of DevOps as it allows everyone involved in the SDLC to work with the exact configuration that will be eventually released to production and the end user. As many people with many different job descriptions at many points in the SDLC need to get hold of that EXACT configuration, images are considered superior for DevOps goals than Snapshots.
 
-Snapshots are have a weakness where they are "mutable" i.e. the file the snapshot exists on can be edited and changed aribitrarily, which if the snapshot has to be deployed onto many systems (such as a development configuration that needs to act as the environment for 15 developers), small arbitrary changes to a snapshot file will completely change the environment.
+Snapshots weakness lies in their "mutability" i.e. the file the snapshot exists on can be edited and changed aribitrarily, which if the snapshot has to be deployed onto many systems (such as a development configuration that needs to act as the environment for 15 developers), small arbitrary changes to a snapshot file will completely change the environment.
 
 Images are "immutable" in the sense that once an image has been made it cannot be changed (which means that if the configuation of the vm/container you must create a new image), which means that when a certain machine configuration has to be reused multiple times the image only need be called upon.
 
+At scale, images are superior as they leave no room for small but potentially critical changes in the softwares configuration. Once an image is created it will be the same forever which means that no matter who uses it it will be the same.
 
 
 #### Orchestration Tools
