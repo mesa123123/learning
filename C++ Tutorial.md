@@ -4,7 +4,7 @@
 
 ## Import C Helpful Libraries
 
-	``` 
+```cpp
 		#include <cstdlib> //helpful functions for the basics, i.e. memory management etc.
 		#include <iostream> //read and write values
 		#include <string> //gets you to work with strings
@@ -14,7 +14,7 @@
 		#include <numeric> //allows work with sequences of values
 		#include <ctime> //time functions
 		#include <cmath> //math functions
-	```
+```
 
 ## Using Keyword
 
@@ -33,12 +33,12 @@ Bringing a base class method into the current class's scope
 
 ## Main method in C++
 
-`
+```cpp
 	int main(int argc, char** argv) {
 		//Doooo Stuff
 		return 0;
 	}
-`
+```
 
 The C++ language's main function returns an int because (similar to shell scripts) the programmes running returns an exit code, return 0; is a way of returning an exit code which says "all ok!"
 
@@ -72,6 +72,6 @@ Giving a variable a type of `auto` will allow the complier to make the decision 
 
 ### types byte size
 
-the `sizeof(<type>)` method can give you an idea of how many bytes a certain type has
+The `sizeof(<type>)` method can give you an idea of how many bytes a certain type has
 
 
