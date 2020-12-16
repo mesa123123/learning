@@ -8,7 +8,7 @@ Distros are mostly open source and community maintained, apart from a few such a
 
 ## Startup
 ### Startup in a nutshell
-See more in the notes I put in startup [here](./LinuxBootLoader.md)
+See more in the notes I put in startup [here](<./Linux Boot Loader Notes.md>)
 
 Basically many modern operating systems follow similar patterns:
 

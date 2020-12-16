@@ -4,12 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "1085edab951d1419",
+        "id": "f38b2aaa3f8e8cf5",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "functional_programming_for_dummies/Functional Programming For Dummies.md.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b56002972a691f02",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "functional_programming_for_dummies/Functional Programming For Dummies.md.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -50,7 +64,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 336,
+    "collapsed": true
   },
   "right": {
     "id": "1fec26cc7e934c48",
@@ -66,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "functional_programming_for_dummies/Functional Programming For Dummies.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,5 +97,16 @@
     "width": 300,
     "collapsed": true
   },
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "functional_programming_for_dummies/Functional Programming For Dummies.md.md",
+    "Linux Boot Loader Notes.md",
+    "ProSystemAdminLinux.md",
+    "LinuxBootLoader.md",
+    "C++ Tutorial.md",
+    "functional_programming_for_dummies/Functional Programming For Dummies.md",
+    "functional_programming_for_dummies/Functional Programming For Dummies.pdf",
+    "functional_programming_for_dummies/Untitled.md",
+    "Learning Scala/notes.md",
+    "Learning Scala/Learning Scala.pdf"
+  ]
 }
