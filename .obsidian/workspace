@@ -6,18 +6,15 @@
       {
         "id": "f38b2aaa3f8e8cf5",
         "type": "leaf",
+        "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "functional_programming_for_dummies/Functional Programming For Dummies.md.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       },
       {
         "id": "b56002972a691f02",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -81,7 +78,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "functional_programming_for_dummies/Functional Programming For Dummies.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
