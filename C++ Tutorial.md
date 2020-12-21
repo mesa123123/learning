@@ -24,11 +24,12 @@ Bringing a base class method into the current class's scope
 
 ## Namespaces
 
-@todo
+#TODO
 
 
 ## Base Class
-@todo
+
+#TODO
 
 ## Stream insertion operator <<
 
