@@ -1,4 +1,4 @@
-@Lookup
+#LOOKUP
 
 * Case Class
 *  case "(\_, 0, \_)" which matches parameters given to the case statement

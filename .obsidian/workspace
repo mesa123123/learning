@@ -4,9 +4,21 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "c7c9bdd73bd10c50",
+=======
+        "id": "f38b2aaa3f8e8cf5",
         "type": "leaf",
         "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "b56002972a691f02",
+>>>>>>> f8f529f64e0b805d3ea742de85888688fd4facc3
+        "type": "leaf",
         "state": {
           "type": "empty",
           "state": {}
