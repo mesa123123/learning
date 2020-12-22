@@ -33,7 +33,7 @@ _Note: there is a challenge to newbie functional programmers as they will need t
 
 The concept of immutable data essentially means data cannot be "tainted"
 
-Review [Pointers](<./Pointers>)
+Review [Pointers](Pointers.md)
 
 If the data in any particular memory location changes, the value of the variable pointing to that location must also change, this can be problematic if you allow things passed by value (rather than by reference _variable for my noob mind_), immutability stops that
 
