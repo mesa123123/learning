@@ -19,4 +19,4 @@ See [Immutable Data](<./Immutable Data.md>)
 
 
 __TAGS:__
-_ #Book #Functional_Programming_for_Dummies_
+_ #Book #Functional_Programming_for_Dummies _

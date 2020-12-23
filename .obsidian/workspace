@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0f836e41ad2452e6",
+        "id": "8a2d4325f1d4205d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux Boot Loader Notes.md",
-            "mode": "preview"
+            "file": "Declarations vs. Procedures.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Boot Loader Notes.md",
+                "file": "Declarations vs. Procedures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Linux Boot Loader Notes.md",
-    "Immutable Data.md"
+    "Declarations vs. Procedures.md",
+    "Immutable Data.md",
+    "The Functional Programming Paradigm.md",
+    "Mermaid - DaC.md",
+    "Untitled.md",
+    "Linux Boot Loader Notes.md"
   ]
 }
