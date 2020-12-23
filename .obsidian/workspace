@@ -1,42 +1,33 @@
 {
   "main": {
-    "id": "40944f547222c6cc",
+    "id": "98dd1a0ef431dcb8",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "c7c9bdd73bd10c50",
-=======
-        "id": "f38b2aaa3f8e8cf5",
+        "id": "0f836e41ad2452e6",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "b56002972a691f02",
->>>>>>> f8f529f64e0b805d3ea742de85888688fd4facc3
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Linux Boot Loader Notes.md",
+            "mode": "preview"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3b72921a8b34d729",
+    "id": "5607f888a69d0ea9",
     "type": "split",
     "children": [
       {
-        "id": "3ba505a5a46c0598",
+        "id": "61d7a79bdc48e038",
         "type": "tabs",
         "children": [
           {
-            "id": "d066a377c1654d16",
+            "id": "25de5902cfbe14bc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +35,7 @@
             }
           },
           {
-            "id": "431a10f440a07cd3",
+            "id": "18daf9d854465edf",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,23 +53,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "1fec26cc7e934c48",
+    "id": "d264ad0c30695f91",
     "type": "split",
     "children": [
       {
-        "id": "f9b8d4d1f414aed1",
+        "id": "73d45a1d9f6edcc4",
         "type": "tabs",
         "children": [
           {
-            "id": "a18c248e3f566ed7",
+            "id": "167a3069b26b249e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux Boot Loader Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +86,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Programming Concepts/Pointers.md",
-    "functional_programming_for_dummies/Functional Programming For Dummies.md.md",
-    "Pointers.md",
-    "C++ Tutorial.md",
     "Linux Boot Loader Notes.md",
-    "ProSystemAdminLinux.md",
-    "LinuxBootLoader.md",
-    "functional_programming_for_dummies/Functional Programming For Dummies.md",
-    "functional_programming_for_dummies/Functional Programming For Dummies.pdf",
-    "functional_programming_for_dummies/Untitled.md"
+    "Immutable Data.md"
   ]
 }
