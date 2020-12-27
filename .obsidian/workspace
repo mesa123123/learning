@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8a2d4325f1d4205d",
+        "id": "5df991633f42e6e7",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Declarations vs. Procedures.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -53,7 +50,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d264ad0c30695f91",
@@ -69,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Declarations vs. Procedures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
