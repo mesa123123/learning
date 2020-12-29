@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5df991633f42e6e7",
+        "id": "44d6f9bdf054986f",
         "type": "leaf",
         "active": true,
         "state": {
@@ -83,6 +83,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "MermaidJS - DaC.md",
     "Declarations vs. Procedures.md",
     "Immutable Data.md",
     "The Functional Programming Paradigm.md",
