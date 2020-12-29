@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "HTML Custom Elements.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -50,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d264ad0c30695f91",
@@ -67,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HTML Custom Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +86,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "HTML Custom Elements.md",
     "MermaidJS - DaC.md",
     "Declarations vs. Procedures.md",
     "Immutable Data.md",

@@ -8,8 +8,7 @@ Custom HTML Elements are a web standard that allows developers to make web eleme
 Creating a custom element starts within the apps javascript:
 
 ```javascript
-class AppDrawer extends HTMLElement {...}
-
+    class AppDrawer extends HTMLElement {...}
 ```
 
 __ TAGS: __
