@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML Custom Elements.md",
-            "mode": "source"
+            "file": "HTML Templates.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML Custom Elements.md",
+                "file": "HTML Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,10 +86,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "HTML Templates.md",
+    "Immutable Data.md",
+    "HTML Shadow DOM.md",
+    "Declarations vs. Procedures.md",
     "HTML Custom Elements.md",
     "MermaidJS - DaC.md",
-    "Declarations vs. Procedures.md",
-    "Immutable Data.md",
     "The Functional Programming Paradigm.md",
     "Mermaid - DaC.md",
     "Untitled.md",
