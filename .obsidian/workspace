@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTML Templates.md",
+            "file": "vimscript message.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML Templates.md",
+                "file": "vimscript message.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "HTML Templates.md",
-    "Immutable Data.md",
-    "HTML Shadow DOM.md",
+    "vimscript message.md",
+    "vimscript echo.md",
     "Declarations vs. Procedures.md",
+    "vimscript options.md",
+    "Immutable Data.md",
+    "HTML Templates.md",
+    "HTML Shadow DOM.md",
     "HTML Custom Elements.md",
     "MermaidJS - DaC.md",
-    "The Functional Programming Paradigm.md",
-    "Mermaid - DaC.md",
-    "Untitled.md",
-    "Linux Boot Loader Notes.md"
+    "The Functional Programming Paradigm.md"
   ]
 }
