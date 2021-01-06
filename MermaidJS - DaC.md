@@ -17,6 +17,7 @@ It runs using text based tools thus making it more platform agnostic than visio 
 ## Installing
 
 You can install mermaidJS with yarn/npm or through a CDN
+Also I've made a extension so this will work with vim :D
 
 __TAGS:__
 _ #Technology #DiagramAsCode _
