@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "44d6f9bdf054986f",
+        "id": "8ee7641edf562c23",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "vimscript message.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Book",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,12 +67,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vimscript message.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -86,15 +83,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Immutable Data.md",
+    "The Functional Programming Paradigm.md",
+    "Declarations vs. Procedures.md",
+    "Vim Mappings.md",
     "vimscript message.md",
     "vimscript echo.md",
-    "Declarations vs. Procedures.md",
     "vimscript options.md",
-    "Immutable Data.md",
     "HTML Templates.md",
     "HTML Shadow DOM.md",
-    "HTML Custom Elements.md",
-    "MermaidJS - DaC.md",
-    "The Functional Programming Paradigm.md"
+    "HTML Custom Elements.md"
   ]
 }

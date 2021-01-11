@@ -9,4 +9,4 @@ If the data in any particular memory location changes, the value of the variable
 #TODO: Seriously re-cover this concept because it is making ZERO sense
 
 __TAGS:__
-_ #Book #Functional_Programming_for_Dummies_
+_ #Functional_Programming_for_Dummies_

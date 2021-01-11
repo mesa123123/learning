@@ -28,5 +28,5 @@ If the data in any particular memory location changes, the value of the variable
 #TODO seriously review this concept because this shouldn't be that simple I feel
 
 __TAGS:__
-_ #Book #Functional_Programming_for_Dummies_
+_ #Functional_Programming_for_Dummies_
 

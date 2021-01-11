@@ -11,7 +11,7 @@ Its better to think of mappings as a kind of macro instruction, i.e. you define 
 ## Types of Mappings
 
 * [Basic Mappings](<./Vim Basic Mappings.md>)
-* [Modal Mappings](<./Vim Modal Mappings.md> "Vim Modal Mappings")
+* [Modal Mappings](<./Vim Modal Mapping.md> "Vim Modal Mappings")
 * [Recursive & NonRecursive Mapping](<./Recursive & NonRecursive Mappings.md> "Recursive and Non-Recursive Mappings")
 * [Mapping Leaders](<./Vim Mapping Leaders.md> "Mapping Leaders")
 * [Mapping Scopes](<./Vim Mapping Scopes.md> "Vim Mapping Scopes")
