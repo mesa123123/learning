@@ -6,8 +6,8 @@ See [Vim Variables](<vimscript variables.md> "Vim Variables")
 
 Also See [Vim Settings](<vimscript options.md> "Vim Options")
 
-__ References __ 
-_ StackOverflow Title Googled _
+__References__
+_StackOverflow Title Googled_
 
-__ TAGS: __
-_ #Vim #Variables #Configuration #Options _ 
+__TAGS:__
+_#Vim #Variables #Configuration #Options_
