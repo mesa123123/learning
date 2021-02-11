@@ -22,7 +22,7 @@ The problem with VMs is that each virtual machine inside the physical server had
 * As an OS is a very heavy piece of software this means that the virtual machines themselves took up a lot of computer power & resources that could have been used for running more business applications.
 * Also if you were running a proprietary OS this meant licensing fees
 * Each OS also requires the time it takes to maintain, patch, monitor etc. from the administrator, which is more lost time in labour costs and expertise that could be used to add business value
-* VMs are ultimately very bulky and hard to startup, shutdown, and move between physical hardware.
+* VMs are ultimately very bulky and hard to start-up, shutdown, and move between physical hardware.
 
 Ultimately there was a strong business need to get rid of needing multiple OS's running on the VM, and create a more portable solution
 

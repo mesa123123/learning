@@ -14,8 +14,19 @@ The Docker Technology comprises three main parts:
 * The Daemon (or engine)
 * The Orchestrator
 
+The three main components are related thus:
 
+![Docker Architecture](./Docker Architecture.png "Docker Architecture")
+
+
+## The Runtime
+
+The
 
 [Read More Here](https://docs.docker.com/get-started/overview/)
 
+__TAGS:__
+_#Docker #Container #Dev_Ops #Virtualisation #VM_
 
+__References__ 
+_Docker Deep Dive; Nigel Poulton_
