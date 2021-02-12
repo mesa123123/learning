@@ -10,22 +10,37 @@ A large set of its technologies are built from the open-source project [Moby](ht
 
 The Docker Technology comprises three main parts:
 
-* The runtime
-* The Daemon (or engine)
+* [The Runtime](<./The Docker Runtime.md> "Docker Runtime")
+* The Daemon (a.k.a. the Docker Engine)
 * The Orchestrator
 
 The three main components are related thus:
 
 ![Docker Architecture](./Docker Architecture.png "Docker Architecture")
 
-## The Runtime
+## Docker Software
 
-The Runtime is primarily responsible for starting and stopping containers (along with all related constructs, see [OS Namespaces](<../OS_Namespaces.md> "OS_Namespaces") and [OS cgroups](<../cgroups.md> "cgroups")).
+When docker is downloaded on a client (called a 'host' in docker language)
+The Software is packaged into two components:
 
-There are many tiers (both high level and low level) to the runtime that operate together to help these processes.
+* The Docker Client
+* The Docker Daemon (a.k.a. the Docker Engine)
 
-* The lower tier runtime (named runc) is an implementation of the Open Container Initiative, which is a governing body for container standards (see [Runc Reference](<../Runc_Reference.md> "Runc Reference") & [The Open Container Initiative](<../Open_Container_Initiative> "Open_Container_Initiative")) to learn more.
-* The higher tier runtime is named containerd, and handles the bulk of the operations. Containerd is used by both Kubernetes and Docker as a container runtime technology. See [Containerd](<../Containerd.md> "Containerd Notes")
+The Daemon package implements the runtime, API, and everything that will eventually make up a dockers server ecosystem, think of the client as more of an interface that a host computer can use to drive and control the containers life cycle
+
+## Images
+
+[Docker Images](<./Docker_Images.md> "Docker Images")
+
+## The Open Container Standards
+
+At present there are two standards for modern containers:
+
+* [image-spec](<../Container_Image_Spec.md> "Container Image Spec")
+* [runtime-spec](<../Container_Runtime_Spec.md> "Container Runtime Spec")
+
+The advantage to this standard is that it allows world-wide portability for all containers, thus developers can use the standard and get on with more value-adding work.
+See more: [Standardization](<../Standardization.md> "Standardization History")
 
 [Read More Here](https://docs.docker.com/get-started/overview/)
 
