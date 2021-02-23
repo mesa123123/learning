@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8ee7641edf562c23",
+        "id": "4ef0741a65ef3986",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Data Pipelines.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -46,12 +49,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d264ad0c30695f91",
@@ -67,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Pipelines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +87,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
+    "Data Pipelines/Data Pipelines Pocket Reference.pdf",
     "Immutable Data.md",
     "The Functional Programming Paradigm.md",
     "Declarations vs. Procedures.md",
@@ -90,8 +96,6 @@
     "vimscript message.md",
     "vimscript echo.md",
     "vimscript options.md",
-    "HTML Templates.md",
-    "HTML Shadow DOM.md",
-    "HTML Custom Elements.md"
+    "HTML Templates.md"
   ]
 }
