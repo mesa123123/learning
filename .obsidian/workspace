@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4ef0741a65ef3986",
+        "id": "ca80b5ee659b319d",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Data Pipelines.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Book",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,12 +46,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d264ad0c30695f91",
@@ -70,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Pipelines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +83,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "Data Pipelines/Data Pipelines Pocket Reference.pdf",
-    "Immutable Data.md",
-    "The Functional Programming Paradigm.md",
-    "Declarations vs. Procedures.md",
+    "HTML Custom Elements.md",
     "Vim Mappings.md",
-    "vimscript message.md",
     "vimscript echo.md",
-    "vimscript options.md",
-    "HTML Templates.md"
+    "HTML Shadow DOM.md",
+    "HTML Slots.md",
+    "Scala Questions.md",
+    "shellProgrammingNotes.md",
+    "Immutable Data.md",
+    "Linux Boot Loader Notes.md",
+    "ProSystemAdminLinux.md"
   ]
 }

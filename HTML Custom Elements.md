@@ -46,4 +46,4 @@ There are a few important lifecycle methods which need to deal with the various 
     * See More [HTML Attributes](./HTML Attributes.md)
 
 __ TAGS: __
-_ #CustomHTMLElements #WebComponents _
+_ #CustomHTMLElements #WebComponents #HTML_
