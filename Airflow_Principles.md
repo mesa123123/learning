@@ -26,5 +26,5 @@ Airflow has a modular architecture and uses a message queue to orchestrate an ar
 __TAGS:__
 _#ApacheAirflow #DevOps #DataPipelines #WorkflowsAsCode #AsCode_
 
-__References__ 
-_https://airflow.apache.org/docs/apache-airflow/stable/_
+__References__
+_[Airflow Docs](<https://airflow.apache.org/docs/apache-airflow/stable> "https://airflow.apache.org/docs/apache-airflow/stable")_
