@@ -8,7 +8,7 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -37,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#VM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,15 +83,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "HTML Custom Elements.md",
-    "Vim Mappings.md",
-    "vimscript echo.md",
-    "HTML Shadow DOM.md",
-    "HTML Slots.md",
-    "Scala Questions.md",
+    "Learning Scala/Scala Misc. Notes.md",
+    "Learning Scala/notes.md",
+    "Apache_Airflow.md",
+    "Directed_Acyclic_Graphs.md",
+    "Vim Messages.md",
+    "Vim Modal Mapping.md",
     "shellProgrammingNotes.md",
-    "Immutable Data.md",
-    "Linux Boot Loader Notes.md",
-    "ProSystemAdminLinux.md"
+    "Programming Concepts/Pointers.md",
+    "HTML Custom Elements.md",
+    "Vim Mappings.md"
   ]
 }
