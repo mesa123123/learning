@@ -31,14 +31,13 @@ When an infra client run is established the chef server sends the client a "node
 ## Types of Attributes
 
 Each type of attribute in chef is applied by the infra client differently based on its type. Each type applies a different "hierarchy" that sources the files from different locations.
-_Note sources later in the chain will override those set earlier in the chain_
 
-* `default` - Cookbook attribute file > Recipe > Environment > Role
-* `force_default` - Cookbook Attribute File > Recipe
-* `normal` - JSON file via cmd line > Cookbook attribute file > Recipe
-* `override` - Cookbook Attribute File > Recipe > Role > Environment
-* `force_override` - Cookbook attribute file > Recipe
-* `automatic` - Identified by Ohai > Infra Client Run
+* `default` - Role, Environment, Recipe, Cookbook attribute file
+* `force_default` - Recipe, Cookbook Attribute File
+* `normal` - Recipe, Cookbook attribute file, JSON file via cmd line
+* `override` - Environment, Role, Recipe, Cookbook Attribute File
+* `force_override` - Recipe, Cookbook attribute file
+* `automatic` - Infra Client Run, Identified by Ohai
 
 ![Chef Attribute Precedence Diagram](./overview_chef_attributes_precedence.png "chef attribute precedence")
 
