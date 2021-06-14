@@ -18,18 +18,23 @@ Cookbook versions can be pinned to each environment, this allows new versions to
 
 There are three ways to create an environment:
 
-* A ruby, or JSON file in the environments sub-directory of a chef-repo, and then pushing it to the Chef Server.
+* A config file in the environments sub-directory of a chef-repo, and then pushing it to the Chef Server.
 * Using [Knife](<./ChefKnife.md> "./ChefKnife")
 * Using the Infra Server API
 
 ### Management
 
+There are 2 ways to manage environments once they've been created:
 
+* Using [knife](<./ChefKnife.md> "./ChefKnife"), and passing the `-E` switch
+* Through config files stored in version control repos (this is pushed to the infra server using the `knife environment` subcommand which will allow a dynamically generated environment)
+
+These two approaches are mutually exclusive, and only recent environment changes will be kept on the Chef Infra Server, regardless of how those changes are pushed.
 
 ## Environment Config Files
 
-Environment configurations can be stored as ruby or json files
-
+Environment configurations can be stored as ruby or json files stored in source control
+__For Syntax and Required Attributes See:__ [Chef Config Syntax](<./ChefConfigSyntax.md> "./ChefConfigSyntax")
 
 __TAGS:__
 #Chef #Environments

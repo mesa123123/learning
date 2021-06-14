@@ -30,6 +30,23 @@ When an infra client run is established the chef server sends the client a "node
 
 ## Types of Attributes
 
+* `automatic` - Identified by Ohai at the start of every Chef Infra Client Run, this attributed cannot be modified.
+* `normal` - a standard attribute in chef that is not reset between Infra Client Runs, they are attributes that persist on the node they are configured on
+* `default` - use these as often as possible in cookbooks, these attributes are automatically reset at the start of every Infra Chef Client run.
+* `force_default` - used in recipes to make sure that environment or role policy cannot override the attribute
+* `override` - An override attribute has a higher precedence than `default` or `force_default`, can be outlined in a environment or role config
+* `force_override` - similar to `force_default` but on the level of override, can only be outlined in a recipe.
+
+### Attribute Precedence
+
+The precedence for attributes generally applies here:
+
+Automatic -> force_override -> override -> normal -> force_default -> default
+
+This general format is a bit more nuanced as each of these attribute types appear and are configured in different places
+
+### Attribute Source Order
+
 Each type of attribute in chef is applied by the infra client differently based on its type. Each type applies a different "hierarchy" that sources the files from different locations.
 
 * `default` - Role, Environment, Recipe, Cookbook attribute file
@@ -64,7 +81,12 @@ An attribute within a role overrides the default settings in a node (default set
 
 __See More:__ [Chef Environments](<./ChefEnvironments.md> "./ChefEnvironments")
 
-An environment is a way to amp an organizations real life workflow (think SDLC) to what can be configured using Chef Infra. This mapping is accomplished by setting attributes and pinning cookbooks at the environment level. With environments, you can change cookbook configurations depdning on the systems designation. For example
+An environment is a way to map an organizations real life workflow (think SDLC) to what can be configured using Chef Infra. This mapping is accomplished by setting attributes and pinning cookbooks at the environment level. With environments, you can change cookbook configurations depending on the systems designation. For example you can connect the right database for each environment depending on where a node is in the workflow.
+
+#### Environment Configs
+
+__See More:__ [Environment Config File](<./ChefEnvironments.md> "./ChefEnvironments")
+
 
 __TAGS:__
 #Chef #ChefAttributes
