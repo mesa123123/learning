@@ -9,7 +9,7 @@ Aspects of Chef Policy include:
 * Cookbook versions
 * Run-list
 
-## Role
+## Roles
 
 A role is a way to define job functions within a chef node. Each role contains:
 
@@ -21,6 +21,8 @@ When a role is run against a node, the configuration details of that node are co
 _More than one role can be assigned to a node, think of them as what work would call `hats` rather than a full JD_
 
 ### Role Attributes
+
+__See:__ [Chef Attributes](<./ChefAttributes.md> "./ChefAttributes")
 
 __TAGS:__
 #ChefPolicy #Chef

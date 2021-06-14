@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+
+BEGIN:VEVENT
+DTSTAMP:20210614T142842Z
+
+DTSTART:20210614T230000Z
+DTEND:20210615T000000Z
+SUMMARY:The Future of Work - future skills and building resilience in a changing world by FuturePath
+
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns="http://www.w3.org/1999/xhtml"><head><base href="https://wnzl.sharepoint.com" /></head><body><a href="https://teams.microsoft.com/l/meetup-join/19%3aff6599f4962b4a0a9edc22d755cf64de%40thread.tacv2/1622773221311?context=%7b%22Tid%22%3a%22e3d7352c-397e-4fdb-ac22-c9513142fc13%22%2c%22Oid%22%3a%220218d832-c69e-468f-a9e3-c5aabe7ddacd%22%7d"><span style="font-size:16.0pt;color:#0066CC">Click here to join Teams Meeting</span></a><p>The nature of work, as we know it, is changing - rapidly. This shift, driven by artificial intelligence, automation and robotics, is and will be as profound as any the world has seen before. Come and see how you can future proof yourselves.<br />\nPresentation by Terry McCloy and Andy McCormack from FuturePath.<br />\n </p>\n</body></html>
+LOCATION:Takutai Square RM6.120, Level 6SS
+
+
+
+
+
+CATEGORIES:Winter School 2021
+END:VEVENT
+END:VCALENDAR
