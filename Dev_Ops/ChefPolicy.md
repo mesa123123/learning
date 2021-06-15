@@ -13,7 +13,6 @@ Aspects of Chef Policy include:
 
 [Chef Roles Here](<./ChefRoles.md> "./ChefRoles")
 
-
 ## Environments
 
 [Chef Environments Here](<./ChefEnvironments.md> "./ChefEnvironments")

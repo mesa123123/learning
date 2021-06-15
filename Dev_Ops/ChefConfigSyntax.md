@@ -31,6 +31,15 @@ And can contain the following optional attributes:
 * default_attributes
 * override_attributes
 * env_run_lists
+_Note: using env_run_lists in roles is difficult to maintain. Multiple Roles is easier to work with instead_
+
+## Attribute Files
+
+## Recipes
+
+## Policy Files
+
+
 
 __TAGS:__
 #Chef #Config #Syntax
