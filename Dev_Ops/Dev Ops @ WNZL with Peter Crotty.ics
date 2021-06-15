@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+
+BEGIN:VEVENT
+DTSTAMP:20210615T135448Z
+
+DTSTART:20210615T220000Z
+DTEND:20210616T000000Z
+SUMMARY:Dev Ops @ WNZL with Peter Crotty
+
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns="http://www.w3.org/1999/xhtml"><head><base href="https://wnzl.sharepoint.com" /></head><body><a href="https://teams.microsoft.com/l/meetup-join/19%3afc77ace7c416445cad9fe4c19d3f6798%40thread.tacv2/1623096650041?context=%7b%22Tid%22%3a%22e3d7352c-397e-4fdb-ac22-c9513142fc13%22%2c%22Oid%22%3a%220218d832-c69e-468f-a9e3-c5aabe7ddacd%22%7d"><span style="font-size:16.0pt;color:#0066CC">Click here to join Teams Meeting</span></a><p>Using the DevOps tool-chain @ WNZL - an overview of the DevOps toolchain (BitBucket, Artifactory, Terraform, Chef, Jenkins), best practices, integrations and the proposed roadmap</p>\n</body></html>
+
+
+
+
+
+
+CATEGORIES:Winter School 2021
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+
+BEGIN:VEVENT
+DTSTAMP:20210615T135548Z
+
+DTSTART:20210616T230000Z
+DTEND:20210617T000000Z
+SUMMARY:The 'R' in StoRytelling - making Data sexy with Andrew Plunket
+
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns="http://www.w3.org/1999/xhtml"><head><base href="https://wnzl.sharepoint.com" /></head><body><a href="https://teams.microsoft.com/l/meetup-join/19%3a098f11d60d944b7a8d094ae45572e303%40thread.tacv2/1623098157888?context=%7b%22Tid%22%3a%22e3d7352c-397e-4fdb-ac22-c9513142fc13%22%2c%22Oid%22%3a%220218d832-c69e-468f-a9e3-c5aabe7ddacd%22%7d"><span style="font-size:16.0pt;color:#0066CC">Click here to join Teams Meeting</span></a><p><em>If you feel your reports are not getting the attention they deserve, then come and learn some makeover tips using R to rival visualisation such as those in BBC News articles.</em></p>\n</body></html>
+
+
+
+
+
+
+CATEGORIES:Winter School 2021
+END:VEVENT
+END:VCALENDAR
