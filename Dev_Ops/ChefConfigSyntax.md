@@ -48,6 +48,8 @@ __See More:__ [Chef Attribute Files](<./ChefAttributeFiles.md> "ChefAttributeFil
 
 ## Policy Files
 
+__See More:__ [Chef Policy Files](<./ChefPolicy.md> "./ChefPolicy")
+
 ## JSON
 
 __See More:__ [Chef JSON configs](<./ChefJsonConfigs.md> "./ChefJsonConfigs")

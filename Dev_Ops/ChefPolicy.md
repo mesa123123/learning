@@ -17,6 +17,14 @@ Aspects of Chef Policy include:
 
 [Chef Environments Here](<./ChefEnvironments.md> "./ChefEnvironments")
 
+## Policy File
+
+#TODO
+
+### Policy File Syntax
+
+[Policy File Syntax Here](<PolicyFileSyntax.md> "PolicyFileSyntax")
+
 __TAGS:__
 #ChefPolicy #Chef
 
