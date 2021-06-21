@@ -1,13 +1,15 @@
-# Chef Policy and Policy Files
+# Chef Policy
 
 Policy in chef maps, operational requirements, process, workflow, settings, and objects stored in the chef server.
 
 Aspects of Chef Policy include:
 
-* Role
-* Environment
-* Cookbook versions
+* Role - which will define patterns and processes that persist for a certain job function
+* Environment - which will define differences along a chef workflow
+* Cookbooks (and their versions) - #TODO
 * Run-list
+* Data Bags - Think secrets; this is where global variables of sensitive information is stored and is loaded by a cookbook
+* Policy Files - an optional way to specify policy, will be utilized by the chef infra client during a run.
 
 ## Roles
 
@@ -19,11 +21,7 @@ Aspects of Chef Policy include:
 
 ## Policy File
 
-#TODO
-
-### Policy File Syntax
-
-[Policy File Syntax Here](<PolicyFileSyntax.md> "PolicyFileSyntax")
+[Chef Policy Files Here](<./ChefPolicyFile.md> "./ChefPolicyFile")
 
 __TAGS:__
 #ChefPolicy #Chef

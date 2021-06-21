@@ -5,15 +5,15 @@
 ## Import C Helpful Libraries
 
 ```cpp
-		#include <cstdlib> //helpful functions for the basics, i.e. memory management etc.
-		#include <iostream> //read and write values
-		#include <string> //gets you to work with strings
-		#include <limits> //holds information about the contraints with data types
-		#include <vectors> //allows you to work with the vector data structure
-		#include <sstream> //allows work with string streams
-		#include <numeric> //allows work with sequences of values
-		#include <ctime> //time functions
-		#include <cmath> //math functions
+    #include <cstdlib> //helpful functions for the basics, i.e. memory management etc.
+    #include <iostream> //read and write values
+    #include <string> //gets you to work with strings
+    #include <limits> //holds information about the contraints with data types
+    #include <vectors> //allows you to work with the vector data structure
+    #include <sstream> //allows work with string streams
+    #include <numeric> //allows work with sequences of values
+    #include <ctime> //time functions
+    #include <cmath> //math functions
 ```
 
 ## Using Keyword
@@ -36,10 +36,10 @@ Bringing a base class method into the current class's scope
 ## Main method in C++
 
 ```cpp
-	int main(int argc, char** argv) {
-		//Doooo Stuff
-		return 0;
-	}
+  int main(int argc, char** argv) {
+    //Doooo Stuff
+    return 0;
+  }
 ```
 
 The C++ language's main function returns an int because (similar to shell scripts) the programmes running returns an exit code, return 0; is a way of returning an exit code which says "all ok!"
@@ -59,7 +59,7 @@ example: `const <type> <var name> = <value>`
 ## Types - Theres a few - These values are all stored in the <limits> library
 
 * Integer Types
-	* unsigned short int (0, 65535)
+ 	* unsigned short int (0, 65535)
 	* short int (-32768, 32769)
 	* int (-2147483648, 2147483648) 
 	* long (-9223372036854775808, 9223372036854775808)
