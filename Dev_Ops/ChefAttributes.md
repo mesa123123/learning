@@ -89,7 +89,7 @@ __See More:__ [Environment Config File](<./ChefEnvironments.md> "./ChefEnvironme
 
 
 __TAGS:__
-#Chef #ChefAttributes
+#Chef #ChefInfraAttributes #ChefInfra
 
 __References__
 _Chef Docs_

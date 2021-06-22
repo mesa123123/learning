@@ -1,4 +1,4 @@
-# Chef Environments
+# Chef Infra Environments
 
 An environment is a way to map an organizations real life workflow (think SDLC) to what can be configured using Chef Infra. This mapping is accomplished by setting attributes and pinning cookbooks at the environment level. With environments, you can change cookbook configurations depending on the systems designation.
 For example, by designating different staging and production environments, you can then define the correct URL of a database server for each environment. Environments also allow organizations to move new cookbook releases from staging to production with confidence by stepping releases through testing environments before entering production.
@@ -37,7 +37,7 @@ Environment configurations can be stored as ruby or json files stored in source 
 __For Syntax and Required Attributes See:__ [Chef Config Syntax](<./ChefConfigSyntax.md> "./ChefConfigSyntax")
 
 __TAGS:__
-#Chef #Environments
+#Chef #Environments #ChefInfra
 
 __References__ 
 _Chef Docs_

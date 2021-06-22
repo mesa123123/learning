@@ -1,4 +1,4 @@
-# Chef Policy File
+# Chef Infra Policy File
 
 ## About
 
@@ -31,7 +31,7 @@ The syntax for a policy files should have the following attributes:
 
 
 __TAGS:__
-#Chef #PolicyFile
+#ChefInfra #Chef #PolicyFile
 
 __References__
 _Chef Docs_

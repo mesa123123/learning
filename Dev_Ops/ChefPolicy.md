@@ -1,4 +1,4 @@
-# Chef Policy
+# Chef Infra Policy
 
 Policy in chef maps, operational requirements, process, workflow, settings, and objects stored in the chef server.
 
@@ -24,7 +24,7 @@ Aspects of Chef Policy include:
 [Chef Policy Files Here](<./ChefPolicyFile.md> "./ChefPolicyFile")
 
 __TAGS:__
-#ChefPolicy #Chef
+#ChefInfraPolicy #ChefInfra #Chef
 
 __References__
 _Chef Docs_

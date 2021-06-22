@@ -1,4 +1,4 @@
-# Chef Attribute Files
+# Chef Infra Attribute Files
 
 Located in the `attributes/` subdirectory for a cookbook. The attributes in this file are evaluated against the context of the node (given environment, roles etc. [See Attribute Precedence](<./ChefAttributes.md> "./ChefAttributes") ).
 
@@ -16,7 +16,7 @@ E.g. `default_unless`
 This pattern is uncommon as it can create config drift from the cookbooks
 
 __TAGS:__
-#Chef #ChefPolicy_
+#Chef #ChefInfraPolicy_#ChefInfra
 
 __References__
 

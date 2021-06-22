@@ -1,8 +1,8 @@
-# Chef Policy Configuration with JSON
+# Chef Infra Policy Configuration with JSON
 
 
 __TAGS:__
-#Chef #ChefPolicy #Config  #JSON
+#Chef #ChefInfraPolicy #Config  #JSON #ChefInfra
 #TODO
 
 __References__

@@ -55,7 +55,7 @@ __See More:__ [Chef Policy Files](<./ChefPolicy.md> "./ChefPolicy")
 __See More:__ [Chef JSON configs](<./ChefJsonConfigs.md> "./ChefJsonConfigs")
 
 __TAGS:__
-#Chef #Config #Syntax
+#Chef #Config #Syntax #ChefInfra
 
 __References__
 _Chef Docs_

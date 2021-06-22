@@ -1,4 +1,4 @@
-# Chef Run Lists
+# Chef Infra Run Lists
 
 A run-list defines all of the information necessary to configure a node into the desired state. A run-list is:
 
@@ -14,7 +14,7 @@ The commands in [knife](<./ChefKnife.md> "./ChefKnife") that are associated with
 * `knife status --run-list`
 
 __TAGS:__
-#Chef
+#Chef #ChefInfra
 
 __References__
 _Chef Docs_

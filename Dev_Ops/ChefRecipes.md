@@ -1,9 +1,9 @@
-# Chef Recipes
+# Chef Infra Recipes
 
 #LOOKUP recipe formats (fully qualified, cookbook, default)
 
 __TAGS:__
-#Chef
+#ChefInfra #Chef
 
 __References__
 _Chef Docs_
