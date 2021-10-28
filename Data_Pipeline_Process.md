@@ -12,8 +12,7 @@ The data pipeline process is a slang term I will use for the various tasks that 
 
 ## Where they sit in the process
 
-#TODO Make this mermaid diagram!
-
+## TODO Make this mermaid diagram
 
 __TAGS:__
 _#Data #DataPipeline #Process_
