@@ -45,6 +45,7 @@
 * Are daemon processes associated with the terminal too?
 * Are the terminal and user space practically the same?
 * The heck does pseudo terminal session mean?
+
 __TAGS:__
 
 __References__

@@ -14,7 +14,7 @@ Attributes are defined on:
 * The node itself
 * JSON passed via the command line
 * [Cookbooks](<./ChefCookbooks.md> "./ChefCookbooks")
-* [Policy Files](<ChefPolicyFiles.md> "ChefPolicyFiles")
+* [Policy File](<ChefPolicyFile.md> "ChefPolicyFile")
 
 ## Attribute building during infra client runs
 
@@ -22,7 +22,7 @@ When an infra client run is established the chef server sends the client a "node
 
 * JSON data passed via cmd line
 * [Cookbooks](<./ChefCookbooks.md> "./ChefCookbooks")
-* [Policy Files](<ChefPolicyFiles.md> "ChefPolicyFiles")
+* [Policy File](<ChefPolicyFile.md> "ChefPolicyFile")
 * Roles
 * Environment
 * Recipes
