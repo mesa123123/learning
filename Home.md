@@ -1,4 +1,11 @@
-# Generated Links
+# Learning Home - Main Index
+
+
+## DevOps
+
+[Dev_Ops Index](./Dev_Ops/Index.md "Dev_Ops Index")
+
+## Other
 
 - [Airflow Complementary Concepts](Airflow_Complementary_Concepts)
 - [Airflow Principles](Airflow_Principles)
@@ -9,29 +16,6 @@
 - [Data Pipeline Process](Data_Pipeline_Process)
 - [Data Pipelines](Data_Pipelines)
 - [Declarations vs. Procedures](Declarations vs. Procedures)
-- [Tools to Learn](Dev_Ops/Atlas_Stack_Reqs)
-- [Chef](Dev_Ops/Chef)
-- [Chef Infra Attribute Files](Dev_Ops/ChefAttributeFiles)
-- [Chef Attributes](Dev_Ops/ChefAttributes)
-- [Chef Config File Syntax](Dev_Ops/ChefConfigSyntax)
-- [Dev_Ops/ChefDefaultCookbookFileSystem](Dev_Ops/ChefDefaultCookbookFileSystem)
-- [Chef Infra Environments](Dev_Ops/ChefEnvironments)
-- [Chef Infra](Dev_Ops/ChefInfra)
-- [Chef Infra Policy Configuration with JSON](Dev_Ops/ChefJsonConfigs)
-- [Chef Infra Policy](Dev_Ops/ChefPolicy)
-- [Chef Infra Policy File](Dev_Ops/ChefPolicyFile)
-- [Chef Infra Recipes](Dev_Ops/ChefRecipes)
-- [Chef Infra Roles](Dev_Ops/ChefRoles)
-- [Chef Infra Run Lists](Dev_Ops/ChefRunList)
-- [Chef Structures and Building Blocks](Dev_Ops/ChefStructures)
-- [Dev_Ops/ChefTemplates](Dev_Ops/ChefTemplates)
-- [Tools for the DevOps Stack](Dev_Ops/DevOps_Stack)
-- [Docker (The Technology)](Dev_Ops/Docker)
-- [Docker Images](Dev_Ops/Docker Images)
-- [Containers Overview and History](Dev_Ops/Docker_Overview)
-- [Questions for Chef](Dev_Ops/QuestionsChef)
-- [Terraform Questions](Dev_Ops/Terraform)
-- [The Docker Runtime](Dev_Ops/The Docker Runtime)
 - [Directed_Acyclic_Graphs](Directed_Acyclic_Graphs)
 - [Custom HTML Elements](HTML Custom Elements)
 - [HTML ShadowDOM](HTML Shadow DOM)
