@@ -1,6 +1,5 @@
 # Learning Home - Main Index
 
-
 ## DevOps
 
 [Dev_Ops Index](./Dev_Ops/Index.md "Dev_Ops Index")
