@@ -1,5 +1,9 @@
 " Set up this workspace as a vimwiki diretory
-" let g:CURRENT_DIR = getcwd()
-let g:vimwiki_list = [{'path': './', 'syntax': 'markdown', 'ext':'.md'}]
-let g:CURRENT_DIR = vimwiki_list
+call plug#begin('/home/$USER/.vim/pack/my_plugins/start')
+
+Plug 'vimwiki/vimwiki'
+
+call plug#end()
+
+let g:vimwiki_list = [{'path': getcwd(), 'syntax': 'markdown', 'ext':'.md'}]
 
