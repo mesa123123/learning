@@ -6,6 +6,7 @@ Gollum::Markup.formats.clear
 
 Gollum::Markup.formats[:markdown] = {
   :name => "Markdown",
-  :extensions => ['.md'],
+  :extensions => ['md'],
   :reverse_links => false
 }
+
