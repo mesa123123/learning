@@ -24,7 +24,7 @@ body {
 
 .btn {  
   display: inline-flex;
-  font-size: 3rem;  
+  font-size: 0.3rem;  
   text-decoration: none;  
   color: var(--color-icon);
   width: 6rem;
