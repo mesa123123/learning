@@ -8,7 +8,7 @@
 
 ### RHEL Technical Overview
 
-[RHEL Technical Overiew Index](./RHEL_Technical_Overview/Index.md "RHEL Technical Overview")
+[RHEL Technical Overview Index](./RHEL_Technical_Overview/Index.md "RHEL Technical Overview")
 
 ## Other
 
