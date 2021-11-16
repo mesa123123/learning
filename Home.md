@@ -4,6 +4,12 @@
 
 [Dev_Ops Index](./Dev_Ops/Index.md "Dev_Ops Index")
 
+## Courses
+
+### RHEL Technical Overview
+
+[RHEL Technical Overiew Index](./RHEL_Technical_Overview/Index.md "RHEL Technical Overview")
+
 ## Other
 
 - [Airflow Complementary Concepts](Airflow_Complementary_Concepts)
@@ -31,9 +37,6 @@
 - [Pointers (Programming Concept)](Programming Concepts/Pointers)
 - [Unit Testing with Pytest - [Youtube Video](https://www.youtube.com/watch?v=bbp_849-RZ4)](Pytest Notes)
 - [Questions](Questions)
-- [What is Linux, Open Source Software, and a Distribution?](RHEL_Technical_Overview/CHPT01_What_is_Linux)
-- [Introduction to The Shell](RHEL_Technical_Overview/CHPT02_Intro_To_The_Shell)
-- [Kernel and User Space](RHEL_Technical_Overview/CHPT03_Kernel_And_User_Space)
 - [LOOKUP](Scala Questions)
 - [The Functional Programming Paradigm](The Functional Programming Paradigm)
 - [Vim Basic Mappings](Vim Basic Mappings)
