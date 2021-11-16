@@ -10,7 +10,7 @@
 
 * {
     background-color: var(--bg);
-    color: white;
+    color: var(--color-icon);
         font-family: 'Ubuntu';
         margin: 0%;
         padding: 0%;
